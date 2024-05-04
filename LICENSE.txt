@@ -1,0 +1,73 @@
+﻿Interstellar Client’s End User License and Policy Agreement
+
+
+Last Updated: 23/03/2024
+
+
+This End User License Agreement ("Agreement") is a legal agreement between you ("User") and Interstellar Client ("Developer") for the use of the Interstellar Client software ("Software"). By downloading, installing, or otherwise using the Software, you agree to be bound by the terms of this Agreement. If you do not agree to the terms of this Agreement, do not download, install, or use the Software.
+
+
+License Grant: 
+
+
+Subject to the terms and conditions of this Agreement, Developer grants User a personal, non-exclusive, non-transferable, limited license to use the Software solely for User's personal, non-commercial use.
+
+
+Restrictions:
+
+
+1. Users shall not sublicense, distribute, sell, or otherwise transfer the Software to any third party.
+2. Users shall not modify, adapt, translate, reverse engineer, decompile, or disassemble the Software.
+3. Users shall not remove, alter, or obscure any copyright, trademark, or other proprietary notices contained in or on the Software.
+4. Users shall not use the Software in any manner that violates applicable laws or regulations.
+
+
+Ownership: 
+
+
+User acknowledges and agrees that Developer retains all right, title, and interest in and to the Software, including all intellectual property rights therein. [Currently owned by HerobrineTG and GinaFro]
+
+
+Disclaimer of Warranty: 
+
+
+THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT. DEVELOPER DOES NOT WARRANT THAT THE SOFTWARE WILL MEET USER'S REQUIREMENTS OR THAT THE OPERATION OF THE SOFTWARE WILL BE UNINTERRUPTED OR ERROR-FREE.
+
+
+Limitation of Liability: 
+
+
+IN NO EVENT SHALL DEVELOPER BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+
+Termination: 
+
+
+This Agreement is effective until terminated. Developers may terminate this Agreement at any time without notice if User breaches any provision of this Agreement. Upon termination, User must cease all use of the Software and destroy all copies of the Software in User's possession or control.
+
+
+Governing Law:
+
+
+This Agreement shall be governed by and construed in accordance with the laws of India, without regard to its conflicts of law provisions.
+
+
+Entire Agreement:
+
+
+This Agreement constitutes the entire agreement between User and Developer regarding the subject matter hereof and supersedes all prior or contemporaneous agreements, understandings, and communications, whether written or oral, relating to such subject matter.
+
+
+Changes to Agreement:
+
+
+Developer reserves the right to modify this Agreement at any time by posting the modified terms on https://interstellar-client.rf.gd/ . User's continued use of the Software after such modifications will constitute User's acknowledgment of the modified Agreement and agreement to abide and be bound by the modified terms.
+
+
+By clicking "I Agree" or by downloading, installing, or using the Software, User acknowledges that User has read and understood this Agreement and agrees to be bound by its terms and conditions.
+
+
+Contact Information:
+
+
+If you have any questions about this Agreement, please contact us at our Discord Server.
